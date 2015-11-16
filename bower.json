@@ -1,0 +1,27 @@
+{
+  "name": "jquery-bootstrap-panel",
+  "version": "0.0.1",
+  "homepage": "https://github.com/derekisbusy/jquery-bootstrap-panel",
+  "authors": [
+    "derekisbusy <derekisbusy@gmail.com>"
+  ],
+  "description": "Bootstrap panel jQuery widget",
+  "main": "jquery.bootstrap-panel.js",
+  "keywords": [
+    "bootstrap",
+    "panel",
+    "jquery",
+    "widget",
+    "toggle",
+    "collapse"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/bower",
+    "test",
+    "tests"
+  ]
+}
